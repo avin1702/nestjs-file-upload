@@ -1,5 +1,5 @@
 There are 2 folders 
-file-upload and react-file-upload
+file-upload and react-file-upload.
 file-upload folder contains the backend and react-file-upload contains the react frontend for the same.
 To run the backend just 
 cd into file-upload folder 
