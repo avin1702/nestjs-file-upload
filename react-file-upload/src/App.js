@@ -31,10 +31,6 @@ function handleUpload(){
     setReturnData(data)
   
   })
-    // console.log("logging result",res.text())
-    // setReturnData(res)
-    // return res
-
   }).catch(err=>{
     setMsg("Upload Unsuccessful, ",err)
   })
