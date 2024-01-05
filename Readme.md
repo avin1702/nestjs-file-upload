@@ -7,6 +7,8 @@ cd into file-upload folder
 
 The backend accepts the uploaded file of logs, transforms and returns the error and warnings logs from with loglevel, timestamp,transactionId and error message in `JSON` array 
 eg of sample data
+
+
 `2044-08-09T02:12:51.253Z - info - {"transactionId":"9abc55b2-807b-4361-9dbe-aa88b1b2e978","details":"Service is started"}
 2021-08-09T02:12:51.254Z - debug - {"transactionId":"9abc55b2-807b-4361-9dbe-aa88b1b2e978","details":"About to request the user information","userId": 10}
 2021-08-09T02:12:51.254Z - debug - {"transactionId":"9abc55b2-807b-4361-9dbe-aa88b1b2e978","details":"About to request user orders list","userId": 10}
